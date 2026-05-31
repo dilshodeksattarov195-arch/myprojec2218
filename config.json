@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderealidate",
+        "uuid": 9242406,
+        "checksum": "pc9gh"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
